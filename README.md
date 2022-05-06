@@ -9,7 +9,7 @@ The current DV Plans use Excel Spreadsheets which is a good format for writing t
 ## Proposed Review Flow
 1. Capture DV Plan using MS Excel, LibreOffice Calc, etc.
 2. Write out a CSV file.
-3. Translate to yaml using csv2yml.
+3. Translate to yaml using dvplan2yml.
 4. Reviewers provide feedback as pull-requests against the yaml file.
 5. Review is complete when all issues and pull-requests against the yaml are closed/merged.
 6. Translate to csv and xlsx (script TBD).
@@ -18,4 +18,4 @@ The current DV Plans use Excel Spreadsheets which is a good format for writing t
 
 **CV32E40S_UserMode.xlsx** : example DV plan.<br>
 **CV32E40S_UserMode.csv**  : verison of DV plan in CSV format (somewhat modified from the original).<br>
-**csv2yml** : prototype conversion script for step 3.<br>
+**dvplan2yml** : prototype conversion script for step 3.<br>
