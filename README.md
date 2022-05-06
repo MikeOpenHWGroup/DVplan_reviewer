@@ -16,6 +16,6 @@ The current DV Plans use Excel Spreadsheets which is a good format for writing t
 
 ## Contents:
 
-**CV32E40S_UserMode.xlsx** : example DV plan.
-**CV32E40S_UserMode.csv**  : verison of DV plan in CSV format (somewhat modified from the original).
-**csv2yml** : prototype conversion script for step 3.
+**CV32E40S_UserMode.xlsx** : example DV plan.<br>
+**CV32E40S_UserMode.csv**  : verison of DV plan in CSV format (somewhat modified from the original).<br>
+**csv2yml** : prototype conversion script for step 3.<br>
